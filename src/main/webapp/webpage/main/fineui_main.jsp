@@ -7,11 +7,11 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
 	<meta name="renderer" content="webkit|ie-comp|ie-stand">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<link rel="fineui-icon" href="images/favicon.ico">
+	<link rel="shortcut icon" href="images/LOGO.png">
 	<meta http-equiv="Cache-Control" content="no-siteapp" />
-	<meta name="keywords" content="JEECG 企业级快速开发平台">
-    <meta name="description" content="JEECG 企业级快速开发平台，她采用强大代码生成，在线开发能力">
-    <title><t:mutiLang langKey="jeect.platform"/></title>
+	<meta name="keywords" content="芸皓科技">
+    <meta name="description" content="">
+    <title><t:mutiLang langKey="芸皓科技"/></title>
     <link href="plug-in/hplus/css/font-awesome.min.css?v=4.4.0" rel="stylesheet">
 	<link rel="stylesheet" href="plug-in/themes/fineui/common/css/sccl.css">
 	<link rel="stylesheet" type="text/css" href="plug-in/themes/fineui/common/skin/qingxin/skin.css" id="layout-skin"/>
@@ -141,7 +141,7 @@
 	<div class="layout-admin">
 		<!-- top -->
 		<header class="layout-header">
-			<span class="header-logo"><img alt="image" width="190" height="68" src="plug-in/login/images/jeecg-aceplus.png" /></span>
+			<span class="header-logo"></span>
 			
 			<div class="titlerow" >
 				<div class="titlecell">
@@ -260,7 +260,7 @@
 	
 	
 	<!-- 在线聊天 -->
-	<%@include file="/context/layui.jsp"%>
+	<%--<%@include file="/context/layui.jsp"%>--%>
 	<script type="text/javascript">
 	function checkput(){
 		var name = $("#searchbox").val();

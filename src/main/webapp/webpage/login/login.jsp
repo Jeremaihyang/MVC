@@ -11,8 +11,8 @@
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta charset="utf-8" />
-  <title><t:mutiLang langKey="jeect.platform"/></title>
-   <link rel="shortcut icon" href="images/favicon.ico">
+  <title><t:mutiLang langKey="芸皓科技"/></title>
+   <link rel="shortcut icon" href="images/LOGO.png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
   <!-- bootstrap & fontawesome -->
   <link rel="stylesheet" href="plug-in/ace/css/bootstrap.css" />
@@ -49,9 +49,9 @@
           <div class="center">
             <h1 id="id-text2" class="grey">
               <i class="ace-icon fa fa-leaf green"></i>
-               JEECG 演示系统
+               芸皓错误日志系统
             </h1>
-            <h4 class="blue" id="id-company-text">www.jeecg.org</h4>
+            <h4 class="blue" id="id-company-text">www.zgykkj.com</h4>
           </div>
           <div class="space-6"></div>
           <div class="position-relative">
@@ -90,17 +90,17 @@
                       </label>
                       <div class="space"></div>
                       <div class="clearfix">
-                        <label class="inline">
-                          <input type="checkbox" class="ace" id="on_off"  name="remember" value="yes"/>
-                          <span class="lbl">记住用户名</span>
-                        </label>
-                        <span> | <a href="http://demo.jeecg.org/mLoginController.do?login&from=singlemessage&isappinstalled=0"><i class="ace-icon fa fa-location-arrow"></i><font color='#428bca'>移动OA</font></a></span>
-                         <span> | <a href="http://yun.jeecg.org" target="_blank"><i class="ace-icon fa fa-cube"></i><font color='#428bca'>插件中心</font></a></span>
+                        <%--<label class="inline">--%>
+                          <%--<input type="checkbox" class="ace" id="on_off"  name="remember" value="yes"/>--%>
+                          <%--<span class="lbl">记住用户名</span>--%>
+                        <%--</label>--%>
+                        <%--<span> | <a href="http://demo.jeecg.org/mLoginController.do?login&from=singlemessage&isappinstalled=0"><i class="ace-icon fa fa-location-arrow"></i><font color='#428bca'>移动OA</font></a></span>--%>
+                         <%--<span> | <a href="http://yun.jeecg.org" target="_blank"><i class="ace-icon fa fa-cube"></i><font color='#428bca'>插件中心</font></a></span>--%>
                         <button type="button" id="but_login"  onclick="checkUser()" class="width-35 pull-right btn btn-sm btn-primary">
                           <i class="ace-icon fa fa-key"></i>
                           <span class="bigger-110" >登录</span>
                         </button>
-                        <a href="loginController.do?goResetPwdMail" class="btn btn-link">忘记密码 ?</a>
+                        <%--<a href="loginController.do?goResetPwdMail" class="btn btn-link">忘记密码 ?</a>--%>
                       </div>
                       <div class="space-4"></div>
 
@@ -117,7 +117,7 @@
                 </form>
               </div>
             </div>
-            <div class="center"><h4 class="blue" id="id-company-text">&copy; JEECG版权所有 v_3.7.8</h4></div>
+            <div class="center"><h4 class="blue" id="id-company-text">&copy; 芸皓科技 v_1.0</h4></div>
             <div class="navbar-fixed-top align-right">
               <br />
               &nbsp;

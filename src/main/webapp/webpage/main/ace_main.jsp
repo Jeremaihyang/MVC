@@ -4,12 +4,12 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title><t:mutiLang langKey="jeect.platform"/></title>
-		<meta name="keywords" content="<t:mutiLang langKey="jeect.platform"/>" />
-		<meta name="description" content="<t:mutiLang langKey="jeect.platform"/>" />
+		<title><t:mutiLang langKey="芸皓科技"/></title>
+		<meta name="keywords" content="<t:mutiLang langKey="芸皓科技"/>" />
+		<meta name="description" content="<t:mutiLang langKey="芸皓科技"/>" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="plug-in/jquery/jquery.contextmenu.css"/>
-		<link rel="shortcut icon" href="images/favicon.ico">
+		<link rel="shortcut icon" href="images/LOGO.png">
 		<!-- basic styles -->
 		<link href="plug-in/ace/assets/css/bootstrap.min.css" rel="stylesheet" />
 		<link href="plug-in/hplus/css/font-awesome.min.css?v=4.4.0" rel="stylesheet">
@@ -66,7 +66,7 @@
 					<a href="#" class="navbar-brand">
 						<small>
 							<i class="icon-leaf"></i>
-							JEECG 微云快速开发平台
+							芸皓科技
 						</small>
 					</a><!-- /.brand -->
 				</div><!-- /.navbar-header -->
