@@ -21,7 +21,7 @@
 			<label for="red" class="col-sm-3 control-label">红色：</label>
 			<div class="col-sm-7">
 				<div class="input-group" style="width:100%">
-					<input id="red" name="red" type="text" maxlength="32" class="form-control input-sm" placeholder="请输入红色"  ignore="ignore" />
+					<input id="red" name="red" type="text" maxlength="32" class="form-control input-sm" placeholder="请输入红色"  datatype="n" ignore="ignore" />
 				</div>
 			</div>
 		</div>
@@ -29,7 +29,7 @@
 			<label for="green" class="col-sm-3 control-label">绿色：</label>
 			<div class="col-sm-7">
 				<div class="input-group" style="width:100%">
-					<input id="green" name="green" type="text" maxlength="32" class="form-control input-sm" placeholder="请输入绿色"  ignore="ignore" />
+					<input id="green" name="green" type="text" maxlength="32" class="form-control input-sm" placeholder="请输入绿色"  datatype="n" ignore="ignore" />
 				</div>
 			</div>
 		</div>
@@ -37,7 +37,7 @@
 			<label for="blue" class="col-sm-3 control-label">蓝色：</label>
 			<div class="col-sm-7">
 				<div class="input-group" style="width:100%">
-					<input id="blue" name="blue" type="text" maxlength="32" class="form-control input-sm" placeholder="请输入蓝色"  ignore="ignore" />
+					<input id="blue" name="blue" type="text" maxlength="32" class="form-control input-sm" placeholder="请输入蓝色"  datatype="n" ignore="ignore" />
 				</div>
 			</div>
 		</div>
