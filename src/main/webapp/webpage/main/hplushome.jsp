@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!--360浏览器优先以webkit内核解析-->
-    <title>芸皓科技</title>
+    <title></title>
 
-    <link rel="shortcut icon" href="images/LOGO.png">
+    <%--<link rel="shortcut icon" href="images/LOGO.png">--%>
     <link href="plug-in/hplus/css/bootstrap.min.css?v=3.3.6" rel="stylesheet">
     <link href="plug-in/hplus/css/font-awesome.css?v=4.4.0" rel="stylesheet">
 

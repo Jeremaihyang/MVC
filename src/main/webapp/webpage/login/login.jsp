@@ -11,7 +11,7 @@
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta charset="utf-8" />
-  <title><t:mutiLang langKey="芸皓科技"/></title>
+  <title><t:mutiLang langKey="MVC作业"/></title>
    <link rel="shortcut icon" href="images/LOGO.png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
   <!-- bootstrap & fontawesome -->
@@ -48,10 +48,10 @@
         <div class="login-container">
           <div class="center">
             <h1 id="id-text2" class="grey">
-              <i class="ace-icon fa fa-leaf green"></i>
-               芸皓错误日志系统
+              <%--<i class="ace-icon fa fa-leaf green"></i>--%>
+
             </h1>
-            <h4 class="blue" id="id-company-text">www.zgykkj.com</h4>
+            <h4 class="blue" id="id-company-text"></h4>
           </div>
           <div class="space-6"></div>
           <div class="position-relative">
@@ -72,13 +72,13 @@
                   <div class="space-6"></div>
                       <label class="block clearfix">
 								<span class="block input-icon input-icon-right">
-									<input type="text"  name="userName" iscookie="true" class="form-control" placeholder="请输入用户名"  id="userName" value=""/>
+									<input type="text"  name="userName" iscookie="true" class="form-control" placeholder="请输入用户名"  id="userName" value="ymh"/>
 									<i class="ace-icon fa fa-user"></i>
 								</span>
                       </label>
                       <label class="block clearfix">
 								<span class="block input-icon input-icon-right">
-									<input type="password" name="password" class="form-control" placeholder="请输入密码" id="password" value=""/>
+									<input type="password" name="password" class="form-control" placeholder="请输入密码" id="password" value="31461810"/>
 									<i class="ace-icon fa fa-lock"></i>
 								</span>
                       </label>
@@ -117,7 +117,7 @@
                 </form>
               </div>
             </div>
-            <div class="center"><h4 class="blue" id="id-company-text">&copy; 芸皓科技 v_1.0</h4></div>
+            <%--<div class="center"><h4 class="blue" id="id-company-text">&copy; </h4></div>--%>
             <div class="navbar-fixed-top align-right">
               <br />
               &nbsp;

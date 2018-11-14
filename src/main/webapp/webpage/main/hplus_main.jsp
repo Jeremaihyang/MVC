@@ -7,9 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="renderer" content="webkit">
 
-    <title><t:mutiLang langKey="芸皓科技"/></title>
+    <title><t:mutiLang langKey="MVC作业"/></title>
 
-    <meta name="keywords" content="芸皓科技">
+    <meta name="keywords" content="">
     <meta name="description" content="">
 
     <link rel="shortcut icon" href="images/LOGO.png">
@@ -37,10 +37,10 @@
             <ul class="nav" id="side-menu">
                 <li class="nav-header">
                     <div class="dropdown profile-element">
-                                <span><img alt="image" width="180" height="61" src="plug-in/login/images/LOGO1.png" /></span>
+                                <%--<span><img alt="image" width="180" height="61" src="plug-in/login/images/LOGO1.png" /></span>--%>
                     </div>
                     <div class="logo-element">
-                        yhbugs
+
 
                     </div>
                 </li>
@@ -58,7 +58,7 @@
                 <div class="navbar-header" style="height: 60px;"><a class="navbar-minimalize minimalize-styl-2 btn btn-primary " href="#"><i class="fa fa-bars"></i> </a>
                     <form role="search" class="navbar-form-custom" method="post" action="search_results.html">
                         <div class="form-group">
-                            <input type="text" placeholder="欢迎使用芸皓科技错误日志系统 …" class="form-control" name="top-search" id="top-search">
+                            <input type="text" placeholder="" class="form-control" name="top-search" id="top-search">
                         </div>
                     </form>
                 </div>
@@ -133,7 +133,7 @@
             <iframe class="J_iframe" name="iframe0" width="100%" height="100%" src="loginController.do?hplushome" frameborder="0" data-id="loginController.do?hplushome" seamless></iframe>
         </div>
         <div class="footer" style="border-top:none;">
-            <div class="pull-right">&copy; <t:mutiLang langKey="V_1.0"/> <a href="http://www.zgykkj.com/" target="_blank">芸皓科技</a>
+            <%--<div class="pull-right">&copy; <t:mutiLang langKey="V_1.0"/> <a href="http://www.zgykkj.com/" target="_blank">芸皓科技</a>--%>
             </div>
         </div>        
     </div>
